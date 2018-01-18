@@ -1,0 +1,20 @@
+.form-control {
+  border: 0;
+}
+
+.form-control:focus {
+  //border: 0;
+  //box-shadow: none;
+}
+
+th .form-control {
+  font-weight: bold;
+}
+
+.table thead th {
+  vertical-align: middle;
+}
+
+.show {
+  display: block !important;
+}
